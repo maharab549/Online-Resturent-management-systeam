@@ -1,0 +1,43 @@
+Maharab Public License (MPL) v1.0  
+Copyright (C) 2025 by Maharab Hossen  
+Everyone is permitted to use, copy, modify, and distribute this software and its source code under the following terms and conditions. Changing this license text is not allowed.
+
+───────────────────────────────  
+🔓 Preamble
+
+This license ensures your freedom to use, modify, and share the software freely, for personal, educational, or commercial purposes. It keeps the software open for all users and contributors.
+
+───────────────────────────────  
+✅ Permissions
+
+You are free to:
+
+• Use the software for any purpose  
+• Share it with others  
+• Modify the source code  
+• Distribute original or modified versions  
+
+───────────────────────────────  
+📜 Conditions
+
+If you distribute the software (original or modified):
+
+1. You must include this license with the software  
+2. You must provide the full source code or offer a free way to access it  
+3. If modified, you must clearly state the changes and author  
+4. You must keep it under this same license (no added restrictions)  
+5. You may not use DRM or hardware locks to block user modifications  
+6. You may not sue anyone using this software for patent claims
+
+───────────────────────────────  
+⚠️ Disclaimer of Warranty
+
+THIS SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND.  
+THE AUTHOR IS NOT RESPONSIBLE FOR ANY DAMAGE OR LOSS RESULTING FROM USE.
+
+───────────────────────────────  
+🔚 Summary
+
+You have full rights to use and improve this software — just keep it free and fair for others too.
+
+END OF MAHARAB PUBLIC LICENSE v1.0
